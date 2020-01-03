@@ -9,7 +9,7 @@
 
 ##### 首页
 
-![首页](images/index.jpg)
+![Image 首页](./images/index.jpg)
 
 ##### 更新列表
 
